@@ -75,7 +75,7 @@
 		"replaces": "Bank",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
-		"uniques": ["Doubles Gold given to enemy if city is captured",
+		"uniques": ["[+100]% Gold given to enemy if city is captured <in this city>",
 			"All newly-trained [Military] units [in this city] receive the [Summon the Lich King] promotion"],
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
