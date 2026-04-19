@@ -1341,13 +1341,6 @@ TileSets/HexaRealm/Units/Worker-Undead-Modern era
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Abyss
-  rotate: false
-  xy: 1084, 45
-  size: 32, 33
-  orig: 32, 33
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Tiles/Abyss
   rotate: false
   xy: 1084, 45
@@ -1355,14 +1348,21 @@ TileSets/HexaRealm/Tiles/Abyss
   orig: 32, 33
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Graveyard
+TileSets/FantasyHex/Tiles/Abyss
+  rotate: false
+  xy: 1084, 45
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Graveyard
   rotate: false
   xy: 1084, 4
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Graveyard
+TileSets/FantasyHex/Tiles/Graveyard
   rotate: false
   xy: 1084, 4
   size: 32, 33
